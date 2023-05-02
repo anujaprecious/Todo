@@ -1,0 +1,17 @@
+body{
+  background-color: rgb(19, 90, 111);
+}
+div{
+  text-align: center;
+  background-color: rgb(129, 202, 216);
+
+}
+button{
+  background-color: rgb(14, 66, 77);
+  color: aliceblue;
+  margin-left: 4px;
+}
+input{
+  background-color: rgb(14, 66, 77);
+  color: aliceblue;
+}
